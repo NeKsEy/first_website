@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+}
+body{
+    background: linear-gradient(#8F0109 0%, #6900f1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.navbar{
+    color: #fff;
+    width: 100%;
+    height: 180px;
+    flex-shrink: 0;
+    background: #421515;
+}
+
+.logo {
+    margin-left: 108px;
+    margin-top: 170px;
+    display: flex;
+    position: absolute;
+}
+.wrapper{
+    margin-top: -80px;
+    margin-left: 420px;
+}
+.wrapper > a{
+    color: #fff;
+    text-decoration: none;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.00) 0%, #F90 99.99%, rgba(112, 255, 0, 0.00) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 50px ;
+}
+
+hr{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), #05FF00;
+    border: none;
+    height: 3px;
+}
+.amogus{
+    margin-top: 50px;
+    margin-left: 1500px;
+}
+.tiliphon{
+    margin-top: -100px;
+    margin-left: 1px;
+}
+.tiliphonchik{
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: linear-gradient(180deg, #24FF00 0%, #52FF00 0.01%, rgba(7, 186, 198, 0.00) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: -432px;
+    margin-left: 334px;
+}
+.adobe{
+    margin-top: 352px;
+    margin-left: 1266px;
+}
+.cubik{
+    margin-top: -1188px;
+    margin-left: 1px;
+}
+.cubiks{
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: linear-gradient(180deg, #3F0 0%, #0500FF 0.01%, #0EF4D9 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: -504px;
+    margin-left: 80px;
+}
+.windows{
+    margin-top: 626px;
+    margin-left: 1374px;
+}
+.tikitok{
+    margin-top: 442px;
+    margin-left: 702px;
+
+}
+footer{
+    width: 1832px;
+    height: 180px;
+    flex-shrink: 0;
+    background: #190724;
+    width: 1832px;
+    height: 180px;
+    flex-shrink: 0;
+    
+}
+.navbar2{
+    color: #fff;
+    width: 100%;
+    height: 180px;
+    flex-shrink: 0;
+    background: #190724;
+    position: absolute;
+}
+.wrapper2 > a{
+    color: #fff;
+    text-decoration: none;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.00) 0%, #F90 99.99%, rgba(112, 255, 0, 0.00) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 250px ;
+    margin-top: 35px;
+}
